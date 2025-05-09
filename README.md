@@ -18,12 +18,6 @@ A simple, interactive tool built with **HTML**, **CSS**, and **JavaScript** to v
 
 ---
 
-## Demo
-
-Check out the live demo of the **Linked-List-VISUALIZER** here: https://ankitkumar-dev25.github.io/Linked-List-VISUALIZER/
-
----
-
 ## Installation
 
 To run the **Linked-List-VISUALIZER** on your local machine, follow these steps:
